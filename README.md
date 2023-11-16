@@ -1,7 +1,3 @@
-# Sharks
-Sharks classifier
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/larusso94/Sharks/main?urlpath=%2Fvoila%2Frender%2Fsharks.ipynb)
-
 # Sharks Classifier Notebook
 
 ## Overview
@@ -14,7 +10,7 @@ This Jupyter Notebook, `sharks.ipynb`, is part of the Sharks classifier project.
 
 ## Demo
 You can also run a live demo of this notebook via Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](Your Binder Link Here)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/larusso94/Sharks/main?urlpath=%2Fvoila%2Frender%2Fsharks.ipynb)
 
 ## Requirements
 - Python 3
